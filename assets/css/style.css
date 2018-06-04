@@ -1,5 +1,5 @@
 body {
-    background: url("../images/background.jpg");
+    background: url("../images/train_track.jpg");
   }
   
   .jumbotron {
@@ -9,7 +9,7 @@ body {
       background-position: center;
       -webkit-background-size: cover;
       background-size: cover;
-      color: white;
+      color: darkblue;
   }
   
   h2 {
