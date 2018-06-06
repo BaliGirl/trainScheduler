@@ -9,7 +9,9 @@ body {
       background-position: center;
       -webkit-background-size: cover;
       background-size: cover;
-      color: darkblue;
+      color: blue;
+      font-family: 'Rum Raisin', sans-serif;
+      font-size: 10rem;
   }
   
   h2 {
@@ -20,5 +22,5 @@ body {
       border-width: 5px;
       border-radius: 30px;
       border-color: lightblue;
-      background-color: gray;
+      background-color: darkblue;
   }  

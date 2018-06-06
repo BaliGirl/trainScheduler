@@ -107,7 +107,7 @@ $(document).ready(function() {
         console.log(err);
     });
 
-               //on click command to delete key when user clicks the trash can gliphicon
+    //on click command to delete key when user clicks the trash can gliphicon
 
     $(document).on("click", ".glyphicon-trash", deleteTrain);
 
