@@ -1,5 +1,5 @@
 # trainScheduler
-<b>Week 7</b>
+<b>Week 7 - Train Scheduler</b>
 
 In this project, it should be able to allow you to submit the following:
     
