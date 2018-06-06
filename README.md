@@ -1,5 +1,5 @@
 # trainScheduler
-When adding trains, administrators should be able to submit the following:
+In this project, it should be able to allow you to submit the following:
     
     * Train Name
     
@@ -12,4 +12,11 @@ When adding trains, administrators should be able to submit the following:
  This project will calculate when the next train will arrive and should be relative to the current time.
 
  Built this project with:
- <li>HTML, CSS, Bootstrap, JQuery, Javascript, Firebase, Moment.js, adobe photoshop</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Bootstrap</li>
+    <li>JQuery</li>
+    <li>Javascript</li>
+    <li>Firebase</li>
+    <li>Moment.js</li>
+    <li>Adobe photoshop</li>
