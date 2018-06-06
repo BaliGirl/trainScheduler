@@ -1,4 +1,6 @@
 # trainScheduler
+<b>Week 7</b>
+
 In this project, it should be able to allow you to submit the following:
     
     * Train Name
@@ -20,3 +22,6 @@ In this project, it should be able to allow you to submit the following:
     <li>Firebase</li>
     <li>Moment.js</li>
     <li>Adobe photoshop</li>
+
+-- This project is to design a train schedule application that incorporates Firebase to host arrival and departure data. 
+This app will retrieve and manipulate this information with Moment.js and will provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station. --
